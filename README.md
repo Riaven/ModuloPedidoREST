@@ -1,2 +1,2 @@
 # ModuloPedidoREST
-prueba rest
+RestFul para usar en el modulo pedido
